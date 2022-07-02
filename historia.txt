@@ -4,3 +4,7 @@ Holis
 Cmabio git
 
 Master 2
+
+$ exec ssh-agent bash
+$ ssh-add ~/.ssh/id_rsa
+
